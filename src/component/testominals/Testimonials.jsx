@@ -18,22 +18,22 @@ const data =[
   {
     avatar:IMG,
     name: 'Adegoke Babatunde',
-    review: ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda molestias, voluptates quod autem quasi commodi laudantium accusamus rerum? Tempore possimus reprehenderit, eaque optio deserunt nulla doloribus recusandae rerum nam quis?'
+    review: ' Whether you have got one or one thousand videos to collect, we have got you. Simply set your questions, send a single link to all, and watch the authentic video roll in.'
   },
   {
     avatar:IMG1,
     name: 'Adegoke Babatunde',
-    review: ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda molestias, voluptates quod autem quasi commodi laudantium accusamus rerum? Tempore possimus reprehenderit, eaque optio deserunt nulla doloribus recusandae rerum nam quis?'
+    review: 'Pre-set ratios and recording durations, then edit your favourite clips in minutes. We have included all the shortcuts you need to create the perfect video.'
   },
   {
     avatar:IMG2,
     name: 'Adegoke Babatunde',
-    review: ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda molestias, voluptates quod autem quasi commodi laudantium accusamus rerum? Tempore possimus reprehenderit, eaque optio deserunt nulla doloribus recusandae rerum nam quis?'
+    review: ' For growing companies, getting your business featured in the news (for the right reasons) is a big feat. Nowadays, being on the news means that millions of people can potentially see your product or service, which can significantly improve brand awareness.'
   },
   {
     avatar:IMG3,
     name: 'Adegoke Babatunde',
-    review: ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda molestias, voluptates quod autem quasi commodi laudantium accusamus rerum? Tempore possimus reprehenderit, eaque optio deserunt nulla doloribus recusandae rerum nam quis?'
+    review: ' A happy customer can simply take out their phone, write an emotional review, and post it for the world to see — and depending on your customers social following, that review could potentially influence millions of people.'
   }
 
 ]
