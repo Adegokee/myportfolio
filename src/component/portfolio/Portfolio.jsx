@@ -11,45 +11,61 @@ const data=[
   {
     id:1,
     image:LEARN,
-    title: 'Social Media',
+    title: 'Facebook',
     github: 'https://github.com/AdegokeBabatunde43/djangomysocial',
     demo: 'https://tundetechhtmlcsssocial1.netlify.app/'
   },
   {
     id:2,
     image:LEARN1,
-    title: 'Review',
+    title: 'NetFlix',
     github: 'https://githubhttps://github.com/AdegokeBabatunde43/react-facebook.com',
     demo: 'https://tiny-starship-0ac823.netlify.app/'
   },
   {
     id:3,
     image:LEARN5,
-    title: 'Social Media',
+    title: 'Quiz App',
     github: 'https://github.com',
     demo: 'https://whimsical-pavlova-392619.netlify.app/'
   },
   {
     id:4,
     image:LEARN3,
-    title: 'Lamasocial',
+    title: 'Programmers Blog',
     github: 'https://github.com/AdegokeBabatunde43/react-facebook',
-    demo: 'https://lucent-otter-12b8ee.netlify.app/'
+    demo: 'https://ttechblogg.herokuapp.com/'
   },
   {
     id:4,
     image:LEARN2,
-    title: 'Social Media',
+    title: 'Ecommerce Cart',
     github: 'https://github.com/AdegokeBabatunde43/my-movie-Api-1',
-    demo: 'https://lucent-otter-12b8ee.netlify.app/'
+    demo: 'https://myecommercecartdemo.netlify.app/'
+    
   },
   {
-    id:1,
+    id:5,
     image:LEARN4,
-    title: 'Social Media',
+    title: 'Animation count with JavaScripts',
     github: 'https://github.com/AdegokeBabatunde43/quiz-app',
     demo: 'https://dreamy-rabanadas-67958e.netlify.app/'
-  }
+  },
+  {
+    id:6,
+    image:LEARN4,
+    title: 'Weathe App',
+    github: 'https://github.com/AdegokeBabatunde43/quiz-app',
+    demo: 'https://luxury-youtiao-506679.netlify.app/'
+  },
+  {
+    id:6,
+    image:LEARN4,
+    title: 'Simple Caculator',
+    github: 'https://github.com/AdegokeBabatunde43/quiz-app',
+    demo: 'https://lucent-otter-12b8ee.netlify.app/'
+    
+  },
 ]
 
 const Portfolio = () => {
@@ -70,13 +86,7 @@ const Portfolio = () => {
                   </div>
                   </article>
       ) )}
-
-        
-
-
-        
-
-      </div>
+    </div>
     </section>
   )
 }
