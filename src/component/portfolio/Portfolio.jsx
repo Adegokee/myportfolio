@@ -1,10 +1,10 @@
 import React from 'react'
-import LEARN from '../../assest/learnfastng.png'
-import LEARN1 from '../../assest/logo-designer-in-nigeria.jpg'
+import LEARN from '../../assest/facebook.png'
+import LEARN1 from '../../assest/maxresdefault.jpg'
 import LEARN2 from '../../assest/female.png'
 import LEARN3 from '../../assest/female.jpg'
 import LEARN4 from '../../assest/rapid-swift.png'
-import LEARN5 from '../../assest/Tiwa.png'
+import LEARN5 from '../../assest/millionaire.png'
 import './portfolio.css'
 
 const data=[
@@ -19,22 +19,22 @@ const data=[
     id:2,
     image:LEARN1,
     title: 'NetFlix',
-    github: 'https://githubhttps://github.com/AdegokeBabatunde43/react-facebook.com',
+    github: 'https://github.com/Adegokee/movieapiclass',
     demo: 'https://tiny-starship-0ac823.netlify.app/'
   },
   {
     id:3,
     image:LEARN5,
     title: 'Quiz App',
-    github: 'https://github.com',
+    github: 'https://github.com/Adegokee/quizappdeloy',
     demo: 'https://whimsical-pavlova-392619.netlify.app/'
   },
   {
     id:4,
     image:LEARN3,
     title: 'Programmers Blog',
-    github: 'https://github.com/AdegokeBabatunde43/react-facebook',
-    demo: 'https://ttechblogg.herokuapp.com/'
+    github: 'https://github.com/Adegokee/developersblog',
+    demo: 'https://web-production-ebef3.up.railway.app'
   },
   {
     id:4,
@@ -54,7 +54,7 @@ const data=[
   {
     id:6,
     image:LEARN4,
-    title: 'Weathe App',
+    title: 'Weather App',
     github: 'https://github.com/AdegokeBabatunde43/quiz-app',
     demo: 'https://luxury-youtiao-506679.netlify.app/'
   },
@@ -66,6 +66,15 @@ const data=[
     demo: 'https://lucent-otter-12b8ee.netlify.app/'
     
   },
+  {
+    id:7,
+    image:LEARN4,
+    title: 'Wall Clock',
+    github: 'https://github.com/Adegokee/wallclock',
+    demo: 'https://ornate-hotteok-7a6ad4.netlify.app/'
+    
+  },
+
 ]
 
 const Portfolio = () => {

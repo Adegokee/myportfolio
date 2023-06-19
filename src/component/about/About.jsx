@@ -34,7 +34,7 @@ const About = () => {
         <small>80+ Years Working</small>
         </article>
       </div>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error numquam iure quidem repellat, nulla perferendis porro aspernatur ipsa aliquid pariatur minus eaque consectetur tempore obcaecati facere assumenda doloremque. Cupiditate, minus.</p>
+      <p>Full Stack Developer familiar with a wide range of programming utilities and languages, with a background in designing, testing and implementing infrastructure and applications. Knowledgeable of backend and frontend development requirements with 8 years of work experience using source control tools to identify and fix bugs in code, handling any part of the process with ease. Software development professional with experience in developing and designing web applications using HTML, CSS, JavaScript, Python, Django, My SQL and React, etc. Adapt at deploying complex front- and backend systems, web services and databases..</p>
       <a href="#contact" className='btn btn-primary'> Let's talk</a>
         </div>
       </div>
