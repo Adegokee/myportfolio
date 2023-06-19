@@ -86,6 +86,34 @@ const Service = () => {
           
           </ul>
         </article>
+        <article className="service">
+          <div className="service__head">
+            <h3>DevOps</h3>
+          </div>
+          <ul className='service__list'>
+            <li>
+              <FaCheck className='sercice__list-icon'/>
+              <p>Cloud Platforms: AWS</p>
+            </li>
+            <li>
+              <FaCheck className='sercice__list-icon'/>
+              <p>Automation and Configuration Management: Ansible, Terraform and Yaml</p>
+            </li>
+            <li>
+              <FaCheck className='sercice__list-icon'/>
+              <p>Continuous Integration/Deployment: Jenkins, AWS CodePipeline</p>
+            </li>
+            <li>
+              <FaCheck className='sercice__list-icon'/>
+              <p>Containerization: Docker, Kubernetes</p>
+            </li>
+            <li>
+              <FaCheck className='sercice__list-icon'/>
+              <p>Scripting/Programming: Python, Bash, PowerShell</p>
+            </li>
+          
+          </ul>
+        </article>
       </div>
     </section>
   )

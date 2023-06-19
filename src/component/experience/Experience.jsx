@@ -47,6 +47,13 @@ const Experience = () => {
             <small className='text-light'>Experienced</small>
            </div>
             </article>
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details__icons'/>
+           <div>
+           <h4>Tailwind</h4>
+            <small className='text-light'>Experienced</small>
+           </div>
+            </article>
           </div>
         </div>
         <div className="container__backend">
@@ -66,6 +73,83 @@ const Experience = () => {
             <small className='text-light'>Intermidiate</small>
            </div>
             </article>
+          
+            
+          </div>
+
+        </div>
+        <div className="container__backend">
+        <h3>Junior DevOps Engineer </h3>
+          <div className="experience__content">
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details__icons' />
+           <div>
+           <h4>Aws Cloud <br /> Computing</h4>
+            <small className='text-light'>Intermidiate</small>
+           </div>
+
+            </article>
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details__icons' />
+           <div>
+           <h4>Terrform and Ansible for Automation</h4>
+            <small className='text-light'>Intermidiate</small>
+           </div>
+
+            </article>
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details__icons' />
+           <div>
+           <h4>Containerization: Docker, Kubernetes</h4>
+            <small className='text-light'>Intermidiate</small>
+           </div>
+
+            </article>
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details__icons' />
+           <div>
+           <h4>CI/CD with Jenkins</h4>
+            <small className='text-light'>Intermidiate</small>
+           </div>
+
+            </article>
+
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details__icons' />
+           <div>
+           <h4>Virtual Control <br /> with Git and Github</h4>
+            <small className='text-light'>Intermidiate</small>
+           </div>
+
+            </article>
+
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details__icons' />
+           <div>
+           <h4>Linux and Bash <br />Scripting</h4>
+            <small className='text-light'>Intermidiate</small>
+           </div>
+
+            </article>
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details__icons' />
+           <div>
+           <h4>SonarCloud and Snyk</h4>
+            <small className='text-light'>Intermidiate</small>
+           </div>
+
+            </article>
+
+            <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details__icons' />
+           <div>
+           <h4>Configuration:YAML</h4>
+            <small className='text-light'>Intermidiate</small>
+           </div>
+
+            </article>
+            
+            
           </div>
 
         </div>
