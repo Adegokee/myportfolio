@@ -2,7 +2,7 @@ import React from 'react'
 import LEARN from '../../assest/facebook.png'
 import LEARN1 from '../../assest/maxresdefault.jpg'
 import LEARN2 from '../../assest/female.png'
-import LEARN3 from '../../assest/female.jpg'
+import LEARN3 from '../../assest/youtube-page.jpg'
 import LEARN4 from '../../assest/rapid-swift.png'
 import LEARN5 from '../../assest/millionaire.png'
 import './portfolio.css'
@@ -32,9 +32,9 @@ const data=[
   {
     id:4,
     image:LEARN3,
-    title: 'Programmers Blog',
-    github: 'https://github.com/Adegokee/developersblog',
-    demo: 'https://web-production-ebef3.up.railway.app'
+    title: 'Youtube API Clone',
+    github: 'https://github.com/Adegokee/youtube-clone',
+    demo: 'https://adegokeyoutubeclone.netlify.app/'
   },
   {
     id:4,
