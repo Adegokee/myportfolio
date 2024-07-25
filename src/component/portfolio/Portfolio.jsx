@@ -61,9 +61,9 @@ const data=[
   {
     id:6,
     image:LEARN4,
-    title: 'Simple Caculator',
-    github: 'https://github.com/AdegokeBabatunde43/quiz-app',
-    demo: 'https://lucent-otter-12b8ee.netlify.app/'
+    title: 'Zoho Ecommerce',
+    github: 'https://github.com/Adegokee/zoho-commerce',
+    demo: 'https://adegokebabatundezoho-ecommerceapp.netlify.app/'
     
   },
   {
